@@ -10,6 +10,7 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
 gem 'sqlite3', '~> 1.4', group: [:development, :test]
 gem 'pg', group: :production
 gem 'rails_12factor', group: :production
+gem 'bootstrap-sass'
 
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
