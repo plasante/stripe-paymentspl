@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/stripe/stripe-ruby
+  revision: 9cf59214f3d1f863e18e6f8bf39242c3621ee62a
+  specs:
+    stripe (5.22.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -225,6 +231,7 @@ DEPENDENCIES
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3 (~> 1.4)
+  stripe!
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 3.3.0)
